@@ -1,4 +1,4 @@
-function dec(input)
+function decod(input)
 {
 input = input.toLowerCase();
 var run = 0;
