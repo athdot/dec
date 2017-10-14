@@ -212,7 +212,6 @@ while(run < len){
   if(letter == "pd"){
   	buildEncrypt += "#";
   }
-  
 	run++;
 }
   return buildEncrypt;
