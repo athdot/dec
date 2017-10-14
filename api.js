@@ -2,7 +2,7 @@ function decod(input)
 {
 input = input.toLowerCase();
 var run = 0;
-var len = input.length/2;
+var len = input.length;
 var buildEncrypt = "";
 while(run < len){
 	var letter = input.substring(run,run+1);
